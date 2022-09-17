@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
   
 
-![Repo Resmi](ödev/kodluyoruz.png)
+![Repo Resmi](kodluyoruz.png)
   
 
 ## Installation
